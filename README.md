@@ -1,2 +1,2 @@
 # testAWS
-Test AWS
+Test AWS with nginx
